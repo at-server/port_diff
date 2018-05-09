@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 # ~*~ coding: utf8 ~*~
 # Port diff for linux
-# Writen by: ry
+# Author: ry
 # version: 2.0.1
 #
 
