@@ -30,3 +30,6 @@
 
   - 2.0.0
     tcp syn, tcp estab 状态输出监控值而不是在脚本进行监控是否告警
+
+### 开发者博客
+  - https://www.zhihu.com/people/comeccc
